@@ -1,0 +1,15 @@
+numpy
+openai
+torch
+torchaudio
+midiutil
+librosa
+tensorflow
+tensorflow_hub
+csv
+pandas
+IPython
+scipy
+diffusers
+pillow
+pydub
